@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 5493c0e660a47e540b7217d655167040
+timeCreated: 1519493595
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ROBOT0001
+    21300002: ROBOT0002
+    21300004: ROBOT0003
+    21300006: ROBOT0004
+    21300008: ROBOT0005
+    21300010: ROBOT0006
+    21300012: ROBOT0007
+    21300014: ROBOT0008
+    21300016: ROBOT0009
+    21300018: ROBOT0010
+    21300020: ROBOT0011
+    21300022: ROBOT0012
+    21300024: ROBOT0013
+    21300026: ROBOT0014
+    21300028: ROBOT0015
+    21300030: ROBOT0016
+    21300032: ROBOT0017
+    21300034: ROBOT0018
+    21300036: ROBOT0019
+    21300038: ROBOT0020
+    21300040: ROBOT0021
+    21300042: ROBOT0022
+    21300044: ROBOT0023
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: PSP2
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROBOT0001
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1146
+        width: 278
+        height: 299
+      alignment: 9
+      pivot: {x: 0.47482014, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0002
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1447
+        width: 290
+        height: 299
+      alignment: 9
+      pivot: {x: 0.5103448, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0003
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1146
+        width: 303
+        height: 299
+      alignment: 9
+      pivot: {x: 0.5148515, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0004
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 845
+        width: 305
+        height: 299
+      alignment: 9
+      pivot: {x: 0.49836066, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0005
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1448
+        width: 315
+        height: 298
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.6677852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0006
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 846
+        width: 333
+        height: 298
+      alignment: 9
+      pivot: {x: 0.45345345, y: 0.6677852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 350
+        height: 299
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 845
+        width: 352
+        height: 299
+      alignment: 9
+      pivot: {x: 0.4346591, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1447
+        width: 355
+        height: 299
+      alignment: 9
+      pivot: {x: 0.43661973, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0010
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1748
+        width: 361
+        height: 299
+      alignment: 9
+      pivot: {x: 0.44598338, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0011
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1748
+        width: 371
+        height: 299
+      alignment: 9
+      pivot: {x: 0.46091643, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0012
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1748
+        width: 375
+        height: 299
+      alignment: 9
+      pivot: {x: 0.49066666, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1748
+        width: 376
+        height: 299
+      alignment: 9
+      pivot: {x: 0.52393615, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0014
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1748
+        width: 360
+        height: 299
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1146
+        width: 353
+        height: 299
+      alignment: 9
+      pivot: {x: 0.53824365, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 544
+        width: 351
+        height: 299
+      alignment: 9
+      pivot: {x: 0.54131055, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0017
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 243
+        width: 344
+        height: 299
+      alignment: 9
+      pivot: {x: 0.5436047, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0018
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 544
+        width: 338
+        height: 299
+      alignment: 9
+      pivot: {x: 0.535503, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0019
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1147
+        width: 327
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5168196, y: 0.6677852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0020
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 546
+        width: 313
+        height: 298
+      alignment: 9
+      pivot: {x: 0.49520767, y: 0.6677852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0021
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 847
+        width: 300
+        height: 298
+      alignment: 9
+      pivot: {x: 0.47333333, y: 0.6677852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0022
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1447
+        width: 283
+        height: 299
+      alignment: 9
+      pivot: {x: 0.47349823, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROBOT0023
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1447
+        width: 278
+        height: 299
+      alignment: 9
+      pivot: {x: 0.47482014, y: 0.6688963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
